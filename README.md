@@ -1,6 +1,7 @@
 [![Join the chat at https://gitter.im/react-pwa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/react-pwa/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 
+
 <h1 align="center" style="text-align:center">ReactPWA - PawJS & Redux</h1>
 
 
